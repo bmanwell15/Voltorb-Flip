@@ -1,7 +1,0 @@
-Some things you should know:
-
-    1. DO NOT try and tamper with the data! IT IS ENCODED FOR A REASON! Incomplete data will result in program crashing.
-
-    2. If the data has been tampered and the program crashes, run "RESET DATA.exe". This will reset all saved data and should fix the program. If the game continues to crash, then the game must be redownloaded.
-
-    3. Like all other files, NO NOT move or rename these files.
