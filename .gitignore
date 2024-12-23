@@ -1,0 +1,4 @@
+__pycatch__
+*.spec
+build
+dir

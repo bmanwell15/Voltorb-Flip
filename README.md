@@ -1,6 +1,6 @@
 
 
-**Welcome to Voltorb Flip Version 1.0.0!** <img src="Voltorb%20Flip%201.0.0/Assets/Images/Icon.ico" width="15" height="15"/>
+**Welcome to Voltorb Flip Version 1.0.1!** <img src="Voltorb%20Flip%201.0.0/Assets/Images/Icon.ico" width="15" height="15"/>
 
 To Download:
 1. Find the green "code" button
@@ -14,3 +14,11 @@ Quick Tips:
 2. DO NOT tamper with the save data. It is encrypted for a reason.
 3. More features are espected to arrive, so be sure to check for updates.
 4. Check for updates at 'https://github.com/bmanwell15/Voltorb-Flip.git'
+
+
+# Version Log
+
+| Version | Date     | Release Notes    |
+| --------|----------|------------------|
+| v1.0.0  | 11/14/23 | Initial Release  |
+| v1.0.1  | 12/22/24 | Fixed Marker Bug |
